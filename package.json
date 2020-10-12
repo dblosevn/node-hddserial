@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/ihabhamad/node-hddserial/issues"
   },
-  "homepage": "https://github.com/ihabhamad/node-hddserial"
+  "homepage": "https://github.com/ihabhamad/node-hddserial",
+  "dependencies": {
+    "plist": "^3.0.1"
+  }
 }
